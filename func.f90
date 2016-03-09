@@ -1,5 +1,5 @@
 function func(x) result (func_result)
-     
+%random stuff     
 real(kind=8), intent(in) :: x
 real(kind=8) :: func_result
 
