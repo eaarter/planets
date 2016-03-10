@@ -1,4 +1,5 @@
 function func(x) result (func_result)
+%Muahaha I edited a line!
 %random stuff     
 real(kind=8), intent(in) :: x
 real(kind=8) :: func_result
