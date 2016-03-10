@@ -1,3 +1,4 @@
+%test
 function func(x) result (func_result)
 %random stuff     
 real(kind=8), intent(in) :: x
